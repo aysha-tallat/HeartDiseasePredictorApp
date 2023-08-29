@@ -1,0 +1,16 @@
+/* Styles for the entire document */
+body {
+    background-color: skyblue;
+}
+
+/* Styles for Heading 1 */
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+/* Styles for Heading 2 */
+h2 {
+    color: darkblue;
+    text-align: left;
+}
